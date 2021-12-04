@@ -29,6 +29,15 @@
   <p>
     React Native 0.66.0
   </p>
+  <p>
+    Clonar o projeto usando o git clone https://github.com/joaodematejr/appN3.git
+  </p>
+  <p>
+    Instalar as lib usando Node ou Yarn (npm install ou yarn install)
+  </p>
+  <p>
+    Rodar o proejeto usando npx run android ou npx run ios 
+  </p>
  
 ## :information_source: Informações
 
